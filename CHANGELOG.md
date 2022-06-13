@@ -4,6 +4,14 @@
 ### Features
 
 * **socket:** check if socket exists before writing ([2db5d6a](https://github.com/curious-company/react-native-tcp-socket/commit/2db5d6a5759ac3a173a461efbe8c29f40bff2ec4))
+* **socket:** up version ([0a766f1](https://github.com/curious-company/react-native-tcp-socket/commit/0a766f1cf6865f7946f30740523e03c89f8a7832))
+
+# [5.7.0](https://github.com/curious-company/react-native-tcp-socket/compare/v5.6.2...v5.7.0) (2022-06-13)
+
+
+### Features
+
+* **socket:** check if socket exists before writing ([2db5d6a](https://github.com/curious-company/react-native-tcp-socket/commit/2db5d6a5759ac3a173a461efbe8c29f40bff2ec4))
 
 ## [5.6.2](https://github.com/Rapsssito/react-native-tcp-socket/compare/v5.6.1...v5.6.2) (2022-04-26)
 
