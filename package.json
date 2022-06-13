@@ -55,7 +55,7 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "tag": "latest",
-    "private": false
+    "access": "public"
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",
