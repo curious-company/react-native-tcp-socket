@@ -95,13 +95,13 @@ class TcpSocketClient extends TcpSocket {
                         if (socket != null) {
                             socket.getOutputStream().write(data);
                             receiverListener.onWritten(getId(), msgId, null);
-                        };
+                        }
                     } catch (IOException e) {
                         receiverListener.onWritten(getId(), msgId, e.toString());
                         receiverListener.onError(getId(), e.toString());
                     }
                 }
-        })
+        });
     }
 
     /**
