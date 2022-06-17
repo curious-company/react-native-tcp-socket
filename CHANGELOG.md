@@ -1,3 +1,10 @@
+## [5.7.2](https://github.com/curious-company/react-native-tcp-socket/compare/v5.7.1...v5.7.2) (2022-06-17)
+
+
+### Bug Fixes
+
+* **tcpSocket:** wrongfully positioned ) ([0e798cc](https://github.com/curious-company/react-native-tcp-socket/commit/0e798cc599b695853f710fa1894d8a1341f9c1af))
+
 ## [5.7.1](https://github.com/curious-company/react-native-tcp-socket/compare/v5.7.0...v5.7.1) (2022-06-17)
 
 

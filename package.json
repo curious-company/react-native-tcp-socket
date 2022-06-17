@@ -1,7 +1,7 @@
 {
   "name": "@curious-company/react-native-tcp-socket",
   "title": "Curious Company Quick fix Fork React Native Tcp Socket",
-  "version": "5.7.1",
+  "version": "5.7.2",
   "description": "React Native TCP socket API for Android & iOS with SSL/TLS support",
   "main": "src/index.js",
   "types": "lib/types/index.d.ts",
